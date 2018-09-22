@@ -1,0 +1,22 @@
+{
+  "name": "express-seed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimaSavchenko/express-seed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DimaSavchenko/express-seed/issues"
+  },
+  "homepage": "https://github.com/DimaSavchenko/express-seed#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
